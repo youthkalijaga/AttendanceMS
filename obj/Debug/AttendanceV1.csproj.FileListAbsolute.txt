@@ -1,0 +1,10 @@
+C:\Users\khedive\source\repos\AttendanceV1\bin\Debug\AttendanceV1.exe.config
+C:\Users\khedive\source\repos\AttendanceV1\bin\Debug\AttendanceV1.exe
+C:\Users\khedive\source\repos\AttendanceV1\bin\Debug\AttendanceV1.pdb
+C:\Users\khedive\source\repos\AttendanceV1\obj\Debug\AttendanceV1.csproj.AssemblyReference.cache
+C:\Users\khedive\source\repos\AttendanceV1\obj\Debug\AttendanceV1.Properties.Resources.resources
+C:\Users\khedive\source\repos\AttendanceV1\obj\Debug\AttendanceV1.csproj.GenerateResource.cache
+C:\Users\khedive\source\repos\AttendanceV1\obj\Debug\AttendanceV1.csproj.CoreCompileInputs.cache
+C:\Users\khedive\source\repos\AttendanceV1\obj\Debug\AttendanceV1.exe
+C:\Users\khedive\source\repos\AttendanceV1\obj\Debug\AttendanceV1.pdb
+C:\Users\khedive\source\repos\AttendanceV1\obj\Debug\AttendanceV1.Form1.resources

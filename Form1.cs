@@ -16,5 +16,15 @@ namespace AttendanceV1
         {
             InitializeComponent();
         }
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            timerAtNow.Start();
+        }
+
+        private void timerAtNow_Tick(object sender, EventArgs e)
+        {
+            labelCurrentDate.Text = DateTime.Now.ToLongDateString();
+            labelCurrentTime.Text = DateTime.Now.ToLongTimeString();
+        }
     }
 }
